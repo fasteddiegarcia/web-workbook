@@ -1,0 +1,18 @@
+#logo {
+  height: 20px;
+  width: 20px;
+}
+#hero {
+  background-image: url("https://images.unsplash.com/uploads/1413142095961484763cf/d141726c?dpr=1&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80&cs=tinysrgb");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+#services {
+  background-image: url("https://images.unsplash.com/photo-1456305951335-bb8134aeab8a?dpr=1&auto=compress,format&crop=entropy&fit=crop&w=1199&h=798&q=80&cs=tinysrgb");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
